@@ -742,11 +742,10 @@ ad:
 # --------------------------------------
 
 site_verification:
-  # - name: google-site-verification
-  #   content: xxxxxx
+  - name: google-site-verification
+    content: yPH-AY65kFWqoZy8Bl-celJL5KXbssnd2JKGXnLiNEM
   # - name: baidu-site-verification
   #   content: xxxxxxx
-
 # --------------------------------------
 # Beautify / Effect
 # --------------------------------------
